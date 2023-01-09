@@ -1,2 +1,2 @@
 # CLDNE
-## The code will be uploaded here as soon as possible.
+## The code for "Continual Learning for Dynamic Network Embedding via Streaming Graph Auto-Encoder".
